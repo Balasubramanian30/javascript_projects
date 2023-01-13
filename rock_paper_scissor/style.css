@@ -1,0 +1,20 @@
+.game {
+    text-align: center;
+    position: relative;
+    top: 10em;
+  }
+  html {
+    background: black;
+  }
+  .heal {
+    color: aliceblue;
+  }
+  .Rock {
+    margin: 1em;
+    padding: 1em;
+    border-radius: 1.5em;
+    font-size: 1em;
+    cursor: pointer;
+    background: green;
+    color: aliceblue;
+  }
